@@ -1,4 +1,4 @@
-# CrawlerGame
+# Crawler Game
 
 ## Project Description 
 The purpose of the project is to create a game where the user plays a hero that is trying to find the exit to the catacombs they are stuck in
